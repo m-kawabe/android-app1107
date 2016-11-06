@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="05e124846b26c744ee4d5555796aa60e18ebcde1">
+        sha1="94b186db1925631c57e444e66464aa15d59cecc7">
         <dex dex="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2a0bf56cf58c73d611acea82ecfb9a2a9acf40b1/classes.dex" />
     </item>
     <item
@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="94f785275fff1eb61fb5c3d8033fbd73eb712914">
+        sha1="a8f2391e3351489d3a8db88fcc84e6e9b3b4347c">
         <dex dex="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e172bdc8985120349e91087632866ee472488a4d/classes.dex" />
     </item>
     <item
@@ -111,21 +111,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8d9974db8c0dd1cd39b4ddf04a62163fa4d1bbb3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
         <dex dex="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_563409416657ed1da09f0850daa0d2733033d532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Kawabe/AndroidStudioProjects/AidlExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8d9974db8c0dd1cd39b4ddf04a62163fa4d1bbb3/classes.dex" />
     </item>
     <item
         is-multidex="true"

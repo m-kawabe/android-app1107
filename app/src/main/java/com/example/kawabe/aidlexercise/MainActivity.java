@@ -35,16 +35,10 @@ public class MainActivity extends AppCompatActivity {
         }
     };
 
-    public void add(View view) {
-        EditText text1 = (EditText)findViewById(R.id.editText);
-        EditText text2 = (EditText)findViewById(R.id.editText2);
-
-        int value1 = Integer.parseInt(text1.getText().toString());
-        int value2 = Integer.parseInt(text2.getText().toString());
-
-        int result = 0;
+    public void showLocale(View view) {
+        String result = "";
         try {
-            result = mService.add(value1, value2);
+            result = mService.getLocale();
         } catch (RemoteException e) {
             e.printStackTrace();
         }
